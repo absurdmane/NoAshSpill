@@ -3,7 +3,7 @@
 A BepInEx 6 (Unity Mono) plugin for **Obenseuer**. Ash from wood-burning devices no longer spills onto the floor when the ash slot is full.
 
 In vanilla, when a stove or furnace burns out and its ash slot can't take all the ash, the rest drops on the ground around it.
-With this mod the slot is filled as far as it goes and the extra ash is discarded. Nothing is written to the game's saves, so the mod is safe to add and remove.
+With this mod the slot is filled as far as it goes and the extra ash is deleted. Nothing is written to the game's saves, so the mod is safe to add and remove.
 
 ## Install
 
